@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SourceCombiner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\source\\CodinGame\\SpringChallenge2021\\SpringChallenge2021\"  \"C:\\temp\\MergeCode\\SpringChallenge2021.cs\""
+    }
+  }
+}
